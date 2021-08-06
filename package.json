@@ -1,0 +1,26 @@
+{
+  "name": "js_de_test",
+  "jest": {
+    "verbose": true
+  },
+  "version": "1.0.0",
+  "description": "it's a test for condidate ",
+  "main": "main.js",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigDataSolutionsTest/js_de_test.git"
+  },
+  "author": "Abdeldjalil Hachimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigDataSolutionsTest/js_de_test/issues"
+  },
+  "homepage": "https://github.com/bigDataSolutionsTest/js_de_test#readme"
+}
